@@ -3,9 +3,6 @@ Rencana Kuliah
 -kerjain tugas tepat waktu
 -maksimalkan belajar codingan
   -javascrip
-    - vue
-  -php
-    -larave
   -html
   -phyton
 -dll

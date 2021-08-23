@@ -1,0 +1,8 @@
+Rencana Kuliah
+
+-kerjain tugas tepat waktu
+-maksimalkan belajar codingan
+  -javascrip
+  -php
+  -html
+-dll

@@ -3,8 +3,7 @@ Rencana Kuliah
 -kerjain tugas tepat waktu
 -maksimalkan belajar codingan
   -javascrip
-   - angular
-   - react
-  -php
-   -laravel
+  -html
+  -phyton
 -dll
+
